@@ -1,190 +1,179 @@
 {
   "basics": {
-    "name": "Miguel Ángel Durán",
-    "label": "Full Stack Developer con más de 15 años de experiencia & Creador de Contenido de Programación",
+    "name": "Rodolfo Rafael Dzul Cetina",
+    "label": "Full Stack Developer con más de 10 años de experiencia",
     "image": "/me.webp",
-    "email": "miduga@gmail.com",
-    "phone": "+34 688888888",
-    "url": "https://midu.dev",
-    "summary": "+15 años de experiencia como Desarrollador Web. Actualmente soy Creador de Contenido y Divulgador sobre Programación. Vivo en Barcelona, España. He trabajado en diferentes entornos: desde acelerar el desarrollo de start-ups hasta liderando equipos de empresas multinacionales.",
+    "email": "rafaelcetina07@gmail.com",
+    "phone": "+52 9902323435",
+    "url": "https://rafaelcetina.vercel.app",
+    "summary": "+10 años de experiencia como Desarrollador Web. Vivo en Mérida, Yucatán. He trabajado en diferentes entornos: desde acelerar el desarrollo de PyMEs hasta liderando equipos de empresas multinacionales.",
     "location": {
       "address": "",
-      "postalCode": "08820",
-      "city": "el Prat de Llobregat",
-      "countryCode": "ES",
-      "region": "España"
+      "postalCode": "97314",
+      "city": "Mérida",
+      "countryCode": "MX",
+      "region": "México"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "midudev",
-        "url": "https://linkedin.com/in/midudev"
+        "username": "rafaelcetina",
+        "url": "https://linkedin.com/in/rafaelcetina"
       },
-      {
-        "network": "X",
-        "username": "midudev",
-        "url": "https://x.com/midudev"
-      },
+
       {
         "network": "GitHub",
-        "username": "midudev",
-        "url": "https://github.com/midudev"
+        "username": "rafaelcetina",
+        "url": "https://github.com/rafaelcetina"
       }
     ]
   },
   "work": [
     {
-      "name": "midudev",
-      "position": "Divulgador sobre Programación Web",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2021-01-01",
+      "name": "The Palace Company",
+      "position": "Technical Lead Frontend",
+      "url": "https://thepalacecompany.com/",
+      "startDate": "2021-05-01",
       "endDate": null,
-      "summary": "Streamer de programación más visto en Español en Twitch. +1 millón de seguidores entre todas mis redes sociales. Reconocido por Google, Microsoft y GitHub por mi impacto en la comunidad de desarrolladores.",
-      "highlights": [
-        "Started the company"
-      ]
+      "summary": "Lidero técnicamente un equipo de desarrollo de producto, mantenemos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomento buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
+      "highlights": ["Started the company"]
     },
     {
-      "name": "Adevinta",
-      "position": "Lead Frontend Architect",
-      "url": "https://twitch.tv/midudev",
-      "startDate": "2016-06-01",
-      "endDate": "2022-09-01",
-      "summary": "Lideré una convergencia técnica entre diferentes productos y migramos una arquitectura monolítica a otra más flexible y optimizada. Fomenté buenas prácticas y mejoras en la cultura de rendimiento, además de la entrega rápida de valor a los usuarios.",
-      "highlights": [
-        "Started the company"
-      ]
+      "name": "General Datacomm de México",
+      "position": "Senior Full Stack Developer",
+      "startDate": "2018-01-01",
+      "endDate": "2021-05-01",
+      "summary": "Desarrollé una plataforma para admnistración de laboratorios médicos del gobierno del estado de Quintana Roo. Escalé la plataforma de control de recursos materiales en el sector salud. Colaboré con el equipo técnico para realizar el cambio de stack de desarrollo a una arquitectura moderna.",
+      "highlights": ["Started the company"]
     },
     {
-      "name": "Hubii",
-      "position": "Senior FrontEnd Developer",
-      "startDate": "2011-03-01",
-      "endDate": "2016-05-01",
-      "summary": "Desarrollé una plataforma de noticias geolocalizadas y una API para consumir la información. Escalé los servicios para soportar la carga de más de cientos de miles de peticiones al día. Recorté los tiempos de entrega y despliegues a producción a la mitad. Colaboré con Mozilla y Telefónica para desarrollar la primera app para televisores con FirefoxOS.",
-      "highlights": [
-        "Started the company"
+      "name": "Administración Portuaria Integral de Quintana Roo",
+      "position": "Full Stack Developer",
+      "startDate": "2016-01-01",
+      "endDate": "2018-05-01",
+      "summary": "Desarrollé una plataforma para admnistración de operación portuaria para el gobierno de Quintana Roo. Desarrollé la plataforma para el control de inventario de recintos portuarios. Diseñé e implementé la plataforma para la gestión de procesos internos de la empresa.",
+      "highlights": ["Started the company"]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Tecnológico Nacional de México, Campus Chetumal",
+      "url": "http://chetumal.tecnm.mx/",
+      "area": "Ingenieria en Sistemas Computacionales",
+      "studyType": "University",
+      "startDate": "2013-05-01",
+      "endDate": "2018-04-01",
+      "score": "90",
+      "courses": [
+        "Ingeniería de Software",
+        "Desarrollo Web",
+        "Bases de Datos",
+        "Redes de Computadoras",
+        "Sistemas Operativos",
+        "Programación"
       ]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Universitat Oberta de Catalunya",
-    "url": "https://www.uoc.edu/portal/es/index.html",
-    "area": "Ingeniero de Software",
-    "studyType": "Bachelor",
-    "startDate": "2003-01-01",
-    "endDate": "2009-01-01",
-    "score": "4.0",
-    "courses": [
-      "DB1101 - Basic SQL"
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "awards": [],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Master",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "Tailwind",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "CSS Framework", "Diseño Responsive"
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
       ]
     },
     {
       "name": "TypeScript",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "MySQL",
       "level": "Avanzado",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Avanzado",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
-      "name": "Next.js",
+      "name": "Vue.js",
       "level": "Avanzado",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "Vue Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Avanzado",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -197,79 +186,70 @@
       "fluency": "Advanced"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
-      "name": "mars.codes",
+      "name": "palaceelite.com",
       "isActive": true,
-      "description": "Historia interactiva con retos de programación para viajar a Marte",
+      "description": "Sitio web para realizar reservas de socios del club vacacional Palace Elite",
       "highlights": [
-        "Elige tu propia aventura",
-        "En desarrollo"
+        "The Palace Company",
+        "En desarrollo",
+        "Vue.js",
+        "Tailwind"
       ],
-      "url": "https://mars.codes"
+      "url": "https://palaceelite.com"
     },
     {
-      "name": "AdventJS",
+      "name": "Booking Engine",
       "isActive": true,
-      "description": "Retos de programación en JavaScript para cada día de diciembre hasta Navidad",
+      "description": "Motor de reservas para los sitios web de los hoteles de The Palace Company",
       "highlights": [
         "+1 millón de visitas",
         "Multidioma",
         "JavaScript & TypeScript"
       ],
-      "url": "https://adventjs.dev"
+      "url": "https://palaceresorts.com"
     },
     {
-      "name": "Codember",
+      "name": "Rule Engine",
       "isActive": true,
-      "description": "Juego interactivo de programación con retos y secretos",
-      "highlights": [
-        "+2000 usuarios activos",
-        "Retos para cualquier lenguaje"
-      ],
-      "url": "https://codember.dev"
+      "description": "Motor de reglas unificado para los sistemas de The Palace Company",
+      "highlights": ["NPM Package", "TypeScript", "Node.js"],
+      "url": null
     },
     {
-      "name": "codi.link",
+      "name": "rafaelcetina.dev",
       "isActive": true,
-      "description": "Playground de código HTML, CSS y JavaScript para compartir",
-      "highlights": [
-        "100k visitas al mes",
-        "Desarrollado por la comunidad"
-      ],
-      "url": "https://codi.link",
-      "github": "https://github.com/midudev/codi.link"
+      "description": "Sitio personal con blog y portfolio",
+      "highlights": ["Astro", "Tailwind", "Vercel"],
+      "url": "https://rafaelcetina.vercel.app",
+      "github": "https://github.com/rafaelcetina/rafaelcetina.dev"
     },
     {
-      "name": "Pruebas Técnicas",
+      "name": "Prueba Técnica Grainchain",
       "isActive": true,
-      "description": "Lista de pruebas técnicas de empresas para practicar programación",
-      "highlights": [
-        "100% gratuito",
-        "+500 soluciones de la comunidad"
-      ],
-      "url": "https://pruebastecnicas.com",
-      "github": "https://github.com/midudev/pruebas-tecnicas"
+      "description": "Proyecto para realizar pruebas técnica de desarrollo web",
+      "highlights": ["Vue.js", "Algortimos", "CSS"],
+      "url": null,
+      "github": "https://github.com/rafaelcetina/test-grainchain"
     },
     {
-      "name": "miduConf",
-      "description": "Conferencia de programación en streaming para la comunidad hispanohablante con charlas top",
-      "highlights": [
-        "+15k tickets repartidos",
-        "+50k espectadores en directo"
-      ],
-      "url": "https://miduconf.com"
+      "name": "Barber Supabase",
+      "description": "Proyecto para control de citas de una barbería realizado con Supabase",
+      "highlights": ["Backend Serverless", "Frontend Vue", "Supabase"],
+      "url": null
     }
   ]
 }
