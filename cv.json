@@ -41,6 +41,7 @@
     {
       "name": "General Datacomm de México",
       "position": "Senior Full Stack Developer",
+      "url": "https://www.gdc-cala.com.mx/",
       "startDate": "2018-01-01",
       "endDate": "2021-05-01",
       "summary": "Desarrollé una plataforma para admnistración de laboratorios médicos del gobierno del estado de Quintana Roo. Escalé la plataforma de control de recursos materiales en el sector salud. Colaboré con el equipo técnico para realizar el cambio de stack de desarrollo a una arquitectura moderna.",
@@ -49,6 +50,7 @@
     {
       "name": "Administración Portuaria Integral de Quintana Roo",
       "position": "Full Stack Developer",
+      "url": "https://www.apiqroo.com.mx/",
       "startDate": "2016-01-01",
       "endDate": "2018-05-01",
       "summary": "Desarrollé una plataforma para admnistración de operación portuaria para el gobierno de Quintana Roo. Desarrollé la plataforma para el control de inventario de recintos portuarios. Diseñé e implementé la plataforma para la gestión de procesos internos de la empresa.",
@@ -227,7 +229,7 @@
       "isActive": true,
       "description": "Motor de reglas unificado para los sistemas de The Palace Company",
       "highlights": ["NPM Package", "TypeScript", "Node.js"],
-      "url": null
+      "url": "#"
     },
     {
       "name": "rafaelcetina.dev",
@@ -242,14 +244,14 @@
       "isActive": true,
       "description": "Proyecto para realizar pruebas técnica de desarrollo web",
       "highlights": ["Vue.js", "Algortimos", "CSS"],
-      "url": null,
+      "url": "#",
       "github": "https://github.com/rafaelcetina/test-grainchain"
     },
     {
       "name": "Barber Supabase",
       "description": "Proyecto para control de citas de una barbería realizado con Supabase",
       "highlights": ["Backend Serverless", "Frontend Vue", "Supabase"],
-      "url": null
+      "url": "#"
     }
   ]
 }
