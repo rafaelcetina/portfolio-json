@@ -1,18 +1,18 @@
 ---
-import Section from "../Section.astro"
+import Section from "../Section.astro";
 
-import { work } from "@cv"
+import { work } from "@cv";
 ---
 
-<Section title="Experiencia laboral">
+<Section title="Work experience 👨🏽‍💻">
   <ul>
     {
       work.map(
         ({ name, startDate, endDate, position, summary, highlights, url }) => {
-          const startYear = new Date(startDate).getFullYear()
+          const startYear = new Date(startDate).getFullYear();
           const endYear =
-            endDate != null ? new Date(endDate).getFullYear() : "Actual"
-          const years = `${startYear} - ${endYear}`
+            endDate != null ? new Date(endDate).getFullYear() : "Actual";
+          const years = `${startYear} - ${endYear}`;
 
           return (
             <li>
@@ -35,7 +35,7 @@ import { work } from "@cv"
                 </footer>
               </article>
             </li>
-          )
+          );
         }
       )
     }
