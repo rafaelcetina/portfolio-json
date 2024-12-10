@@ -31,6 +31,15 @@
   "work": [
     {
       "name": "The Palace Company",
+      "position": "Technical Lead",
+      "url": "https://thepalacecompany.com/",
+      "startDate": "2023-01-01",
+      "endDate": null,
+      "summary": "Lead a product team for the development and implementation of a Unified Reservation Platform, stack: Serverless framework, Micro frontends with Vue 3, Vue 2 and React. AWS services: SNS, SQS, DynamoDB, Lambda, EventBridge, RDS and S3. CI/CD with GitHub Actions and Terraform.",
+      "highlights": ["Started the company"]
+    },
+    {
+      "name": "The Palace Company",
       "position": "Technical Lead Frontend",
       "url": "https://thepalacecompany.com/",
       "startDate": "2021-05-01",
@@ -107,6 +116,21 @@
       "keywords": []
     },
     {
+      "name": "Serverless Framework",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "AWS Services",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
+      "name": "Micro frontends",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
+    },
+    {
       "name": "Node",
       "level": "Advanced",
       "keywords": ["Web Development", "Backend", "JavaScript", "Server"]
@@ -178,6 +202,13 @@
       "name": "Rule Engine",
       "isActive": true,
       "description": "Unified rule engine for the systems of The Palace Company",
+      "highlights": ["NPM Package", "TypeScript", "Node.js"],
+      "url": "#"
+    },
+    {
+      "name": "Reservations Platform",
+      "isActive": true,
+      "description": "Unified reservation platform for The Palace Company with micro frontends",
       "highlights": ["NPM Package", "TypeScript", "Node.js"],
       "url": "#"
     },
