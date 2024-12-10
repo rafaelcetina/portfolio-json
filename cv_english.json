@@ -209,7 +209,7 @@
       "name": "Reservations Platform",
       "isActive": true,
       "description": "Unified reservation platform for The Palace Company with micro frontends",
-      "highlights": ["NPM Package", "TypeScript", "Node.js"],
+      "highlights": ["Vue.js", "TypeScript", "Serverless"],
       "url": "#"
     },
     {
