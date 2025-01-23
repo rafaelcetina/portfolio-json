@@ -6,7 +6,7 @@
     "email": "rafaelcetina07@gmail.com",
     "phone": "+52 9902323435",
     "url": "https://rafaelcetina.vercel.app",
-    "summary": "+10 years of experience as a Web Developer. I live in Mérida, Yucatán. I have worked in different environments: from accelerating the development of SMEs to leading teams in multinational companies.",
+    "summary": "Self-taught Full Stack Developer with over 10 years of experience in building responsive websites, covering the entire development lifecycle—from design and research to production deployment, performance optimization, and continuous improvement. Proficient in HTML, CSS, and JavaScript, with a strong focus on clean design and best practices. Passionate about learning and experimenting with modern technologies like ReactJs and VueJs to develop innovative solutions. Experienced in AWS services, integrating various solutions within the ecosystem. Proven leadership experience managing teams of 10+ members, with a strong ability to mentor and enhance the technical skills of team members.",
     "location": {
       "address": "",
       "postalCode": "97314",
@@ -34,26 +34,26 @@
       "position": "Technical Lead",
       "url": "https://thepalacecompany.com/",
       "startDate": "2023-01-01",
-      "endDate": null,
-      "summary": "Lead a product team for the development and implementation of a Unified Reservation Platform, stack: Serverless framework, Micro frontends with Vue 3, Vue 2 and React. AWS services: SNS, SQS, DynamoDB, Lambda, EventBridge, RDS and S3. CI/CD with GitHub Actions and Terraform.",
+      "endDate": "2025-01-01",
+      "summary": "Led a product team in the development and implementation of a Unified Reservation Platform, utilizing a modern tech stack, including Serverless framework and Micro Frontends with Vue 3, Vue 2, and React. Played a key role in implementing Micro Frontends architecture and integrating AWS services such as SNS, SQS, DynamoDB, Lambda, EventBridge, RDS, and S3. Managed CI/CD pipelines using GitHub Actions and infrastructure as code with Terraform. As a technical lead, I was responsible for conducting technical interviews, hiring developers, and designing technical challenges to assess candidates’ skills using platforms such as DevSkiller and TestGorilla. Focused on building a high-performing team by mentoring members and fostering a culture of continuous improvement.",
       "highlights": ["Started the company"]
     },
     {
       "name": "The Palace Company",
-      "position": "Technical Lead Frontend",
+      "position": "Sr. Software Engineer",
       "url": "https://thepalacecompany.com/",
       "startDate": "2021-05-01",
-      "endDate": null,
-      "summary": "I technically lead a product development team, we maintain and migrate a monolithic architecture to a more flexible and optimized one. I promote good practices and improvements in performance culture, in addition to the rapid delivery of value to users.",
+      "endDate": "2023-01-01",
+      "summary": "Provided technical leadership to a product development team, overseeing the maintenance and migration of a monolithic architecture to a more flexible and optimized solution. Advocated for best practices, performance improvements, and a culture of rapid value delivery to users. Key projects as a technical lead include: palaceelite.com: A self-management platform for vacation club memberships and room reservations with exclusive benefits. bookingsthegrandpr.moonpalace.com: A booking engine designed for the general public",
       "highlights": ["Started the company"]
     },
     {
       "name": "General Datacomm de México",
-      "position": "Senior Full Stack Developer",
+      "position": "Sr. Full Stack Developer",
       "url": "https://www.gdc-cala.com.mx/",
       "startDate": "2018-01-01",
       "endDate": "2021-05-01",
-      "summary": "I developed a platform for the administration of medical laboratories for the government of the state of Quintana Roo. I scaled the material resources control platform in the health sector. I collaborated with the technical team to make the change from the development stack to a modern architecture.",
+      "summary": "At General DataComm, I contributed to the development of an ERP system for the State Government, focusing on the Materials Resource Management module. This module was responsible for overseeing the supply chain of healthcare materials. I played a key role in developing the module using Laravel for the backend and Vue for the frontend. Additionally, I collaborated with the technical team to transition the development stack to a more modern and scalable architecture, enhancing system performance and maintainability.",
       "highlights": ["Started the company"]
     },
     {
@@ -62,7 +62,7 @@
       "url": "https://www.apiqroo.com.mx/",
       "startDate": "2016-01-01",
       "endDate": "2018-05-01",
-      "summary": "I developed a platform for port operation management for the government of Quintana Roo. I developed the platform for inventory control of port facilities. I designed and implemented the platform for the management of the company's internal processes.",
+      "summary": "At Administración Portuaria Integral de Quintana Roo, I contributed to the development of multiple systems to streamline port operations. Key projects included: SOP (Port Operations System): A platform designed to manage the transportation, arrival, and tax collection of cargo containers entering the state through the regulated port facilities in Cozumel and Isla Mujeres. Warehouse Management Application: Developed a system to manage the entry and exit of items in the warehouse, improving operational efficiency. Inventory Control Platform: Created a platform for the inventory control of port facilities, optimizing tracking and management of goods. Internal Processes Platform: Designed and implemented a platform to manage and streamline the company’s internal processes, enhancing workflow efficiency. These platforms contributed significantly to improving port operations and internal management, ensuring smoother operations and compliance with regulations.",
       "highlights": ["Started the company"]
     }
   ],
@@ -157,6 +157,12 @@
     },
     {
       "name": "React",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    }
+    ,
+    {
+      "name": "Nextjs",
       "level": "Advanced",
       "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     }
