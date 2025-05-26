@@ -30,11 +30,24 @@
   },
   "work": [
     {
+      "name": "Clubhub",
+      "position": "Full Stack Software Engineer",
+      "url": "https://clubhub.ai/",
+      "startDate": "2025-01-04",
+      "summary": "Develop an Plataform for managing vacation club memberships, including a booking engine and a self-management platform for members. The platform is built with a modern tech stack, including SvelteKit, TypeScript, and Tailwind CSS. It integrates with AWS services such as Lambda, S3, DynamoDB, and GraphQL to provide a scalable and efficient solution. As a full stack developer, I am responsible for the entire development lifecycle, from design and research to production deployment and performance optimization.",
+      "highlights": [
+        "Developed a membership management platform",
+        "Implemented a booking engine",
+        "Integrated with AWS services"
+      ]
+      
+    },
+    {
       "name": "The Palace Company",
       "position": "Technical Lead",
       "url": "https://thepalacecompany.com/",
       "startDate": "2023-01-01",
-      "endDate": "2025-01-01",
+      "endDate": "2024-12-30",
       "summary": "Led a product team in the development and implementation of a Unified Reservation Platform, utilizing a modern tech stack, including Serverless framework and Micro Frontends with Vue 3, Vue 2, and React. Played a key role in implementing Micro Frontends architecture and integrating AWS services such as SNS, SQS, DynamoDB, Lambda, EventBridge, RDS, and S3. Managed CI/CD pipelines using GitHub Actions and infrastructure as code with Terraform. As a technical lead, I was responsible for conducting technical interviews, hiring developers, and designing technical challenges to assess candidates’ skills using platforms such as DevSkiller and TestGorilla. Focused on building a high-performing team by mentoring members and fostering a culture of continuous improvement.",
       "highlights": ["Started the company"]
     },

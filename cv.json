@@ -30,6 +30,18 @@
   },
   "work": [
     {
+      "name": "Clubhub",
+      "position": "Full Stack Software Engineer",
+      "url": "https://clubhub.ai/",
+      "startDate": "2025-01-04",
+      "summary": "Desarrollo una plataforma para la gestión de membresías de clubes vacacionales, incluyendo un motor de reservas y una plataforma de autogestión para los miembros. La plataforma está construida con un stack tecnológico moderno, incluyendo SvelteKit, TypeScript y Tailwind CSS. Se integra con servicios de AWS como Lambda, S3, DynamoDB y GraphQL para proporcionar una solución escalable y eficiente. Como desarrollador full stack, soy responsable de todo el ciclo de vida del desarrollo, desde el diseño e investigación hasta el despliegue en producción y la optimización del rendimiento.",      
+      "highlights": [
+        "Desarrollo de una plataforma de gestión de membresías",
+        "Implementación de un motor de reservas",
+        "Integración con servicios de AWS"
+      ]
+    },
+    {
       "name": "The Palace Company",
       "position": "Technical Lead Frontend",
       "url": "https://thepalacecompany.com/",
