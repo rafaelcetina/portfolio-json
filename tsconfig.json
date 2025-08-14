@@ -1,6 +1,9 @@
 {
   "extends": "astro/tsconfigs/strict",
   "compilerOptions": {
+    "module": "ESNext",
+    "moduleResolution": "bundler", // or "node" in older setups
+    "target": "ESNext",
     "baseUrl": ".",
     "paths": {
       "@cv": [

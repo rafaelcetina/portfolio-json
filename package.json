@@ -4,14 +4,14 @@
   "version": "0.0.1",
   "scripts": {
     "dev": "astro dev",
-    "start": "astro dev",
+    "start": "HOST=0.0.0.0 node dist/server/entry.mjs",
     "build": "astro check && astro build",
     "preview": "astro preview",
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/check": "0.4.1",
-    "astro": "4.3.2",
+    "@astrojs/check": "0.5.9",
+    "astro": "4.5.3",
     "hotkeypad": "0.1.0",
     "typescript": "5.3.3",
     "@astrojs/node": "^8.2.3"
