@@ -1,9 +1,8 @@
 # Stage 1: Build the Astro project
 FROM node:20-alpine AS node-builder
 WORKDIR /app
-COPY package.json package-lock.json ./
-RUN npm install
 COPY . .
+RUN npm ci
 RUN npm run build
 
 
