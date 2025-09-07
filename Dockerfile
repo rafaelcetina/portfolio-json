@@ -1,5 +1,5 @@
 # Stage 1: Build the Astro project
-FROM node:20-alpine AS node-builder
+FROM node:lts-alpine AS node-builder
 WORKDIR /app
 COPY . .
 RUN npm install -g pnpm
