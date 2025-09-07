@@ -2,10 +2,10 @@
   "basics": {
     "name": "Rodolfo Rafael Dzul Cetina",
     "label": "Full Stack Developer with over 10 years of experience",
-    "image": "/me.webp",
+    "image": "/me.png",
     "email": "rafael.cetina@hotmail.com",
     "phone": "+52 9902323435",
-    "url": "https://rafaelcetina.vercel.app",
+    "url": "https://rafaelcetina.com",
     "summary": "Self-taught Full Stack Developer with over 10 years of experience in building responsive websites, covering the entire development lifecycle—from design and research to production deployment, performance optimization, and continuous improvement. Proficient in HTML, CSS, and JavaScript, with a strong focus on clean design and best practices. Passionate about learning and experimenting with modern technologies like ReactJs and VueJs to develop innovative solutions. Experienced in AWS services, integrating various solutions within the ecosystem. Proven leadership experience managing teams of 10+ members, with a strong ability to mentor and enhance the technical skills of team members.",
     "location": {
       "address": "",
@@ -178,6 +178,11 @@
       "name": "Nextjs",
       "level": "Advanced",
       "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
+    },
+    {
+      "name": "Svelte",
+      "level": "Advanced",
+      "keywords": ["Web Development", "Frontend", "JavaScript Library", "UI"]
     }
   ],
   "languages": [
@@ -204,38 +209,52 @@
   ],
   "projects": [
     {
+      "name": "Talent Kin",
+      "isActive": true,
+      "description": "Platform with AI powered for managing job offers and candidates. My first micro SaaS project.",
+      "highlights": ["SvelteKit", "TypeScript", "Tailwind", "VPS", "AI", "Personal Project"],
+      "url": "https://talentkin.rafaelcetina.com"
+    },
+    {
+      "name": "Cars Recommender",
+      "isActive": true,
+      "description": "Website for recommending cars based on user preferences using AI.",
+      "highlights": ["Astro", "Tailwind", "Vercel", "AI", "Backend", "Node.js", "Personal Project"],
+      "url": "https://cars.rafaelcetina.com"
+    },
+    {
       "name": "palaceelite.com",
       "isActive": true,
       "description": "Website for making reservations for members of the Palace Elite vacation club",
-      "highlights": ["Tailwind"],
+      "highlights": ["Tailwind", "Vue.js", "JavaScript & TypeScript", "Enterprise Project"],
       "url": "https://palaceelite.com"
     },
     {
       "name": "Booking Engine",
       "isActive": true,
       "description": "Reservation engine for the websites of The Palace Company hotels",
-      "highlights": ["JavaScript & TypeScript"],
+      "highlights": ["JavaScript & TypeScript", "Vue.js", "React", "Enterprise Project"],
       "url": "https://palaceresorts.com"
     },
     {
       "name": "Rule Engine",
       "isActive": true,
       "description": "Unified rule engine for the systems of The Palace Company",
-      "highlights": ["NPM Package", "TypeScript", "Node.js"],
+      "highlights": ["NPM Package", "TypeScript", "Node.js", "Enterprise Project"],
       "url": "#"
     },
     {
       "name": "Reservations Platform",
       "isActive": true,
       "description": "Unified reservation platform for The Palace Company with micro frontends",
-      "highlights": ["Vue.js", "TypeScript", "Serverless"],
+      "highlights": ["Vue.js", "TypeScript", "Serverless", "AWS", "Micro frontends", "Enterprise Project"],
       "url": "#"
     },
     {
       "name": "rafaelcetina.dev",
       "isActive": true,
       "description": "Personal site with blog and portfolio",
-      "highlights": ["Astro", "Tailwind", "Vercel"],
+      "highlights": ["Astro", "Tailwind", "Vercel", "Personal Project"],
       "url": "https://rafaelcetina.vercel.app",
       "github": "https://github.com/rafaelcetina/rafaelcetina.dev"
     },
@@ -243,14 +262,14 @@
       "name": "Technical Test Grainchain",
       "isActive": true,
       "description": "Project to perform technical web development tests",
-      "highlights": ["Vue.js", "Algorithms", "CSS"],
+      "highlights": ["Vue.js", "Algorithms", "CSS", "JavaScript", "Personal Project"],
       "url": "#",
       "github": "https://github.com/rafaelcetina/test-grainchain"
     },
     {
       "name": "Barber Supabase",
       "description": "Project for controlling appointments of a barbershop made with Supabase",
-      "highlights": ["Serverless Backend", "Frontend Vue", "Supabase"],
+      "highlights": ["Serverless Backend", "Frontend Vue", "Supabase", "Personal Project"],
       "url": "#"
     }
   ]
